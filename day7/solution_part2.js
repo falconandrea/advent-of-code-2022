@@ -45,8 +45,6 @@ fs.readFile(file, 'utf8', (err, data) => {
     }
   }
 
-  console.log(struct.childs.fnsvfbzt)
-
   // Calc size folders
   const sizeFolders = []
   let total = 0
